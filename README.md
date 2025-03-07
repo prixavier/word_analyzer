@@ -60,7 +60,7 @@ json
 
 Below is a simplified UML sequence diagram showing how the client interacts with the Flask microservice:
 
-![UML Sequence Diagram] (docs/UML_Diagram_Word_Analzyer(1).png)
+![UML Sequence Diagram](docs/UML_Diagram_Word_Analzyer(1).png)
 
 
 ## How to Run the Microservice
